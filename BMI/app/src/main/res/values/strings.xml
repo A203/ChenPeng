@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">身体质量指数计算器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">身体质量指数计算器</string>
+    <string name="height">身高(cm)</string>
+    <string name="weight">体重(kg)</string>
+    <string name="advise_count">计算BMI值</string>
+    <string name="advise_veryligth">极度偏瘦，注意增加饮食！</string>
+    <string name="advise_ligth">偏瘦，你应该多吃点！</string>
+    <string name="advise_average">正常，请继续保持~！</string>
+    <string name="advise_overweight">偏胖，注意锻炼！</string>
+    <string name="advise_heavy">肥胖，多锻炼，注意饮食健康！</string>
+    <string name="advise_severeobesity">重度肥胖，注意饮食要节制，适当减肥！</string>
+    <string name="advise_extremeobesity">极度肥胖，必须减肥，不然易患多种肥胖引起的疾病！</string>
+    <string name="about">关于BMI</string>
+    <string name="about1">关于BMI</string>
+    <string name="about2">  BMI指数（Body Mass Index）即身体质量指数，是与体内脂肪总量密切相关的指标，主要反映全身性超重和肥胖。由于BMI计算的是身体脂肪的比例，所以在测量身体因超重而面临心脏病、高血压等风险上，比单存的一体重来认定，更具准确性。</string>
+    <string name="about3">BMI指数范围：</string>
+    <string name="about4">极度偏瘦：低于16\n偏瘦：16~18.5\n正常：18.5~25\n偏胖：25~30\n肥胖：30~35\n重度肥胖：35~40\n极度肥胖：高于40</string>
+    <string name="wrong">记得输正确的数值哦！</string>
+
+</resources>
